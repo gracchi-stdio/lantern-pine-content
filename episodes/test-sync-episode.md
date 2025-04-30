@@ -6,3 +6,11 @@ publishedAt: 2023-01-01T00:00:00Z
 ---
 
 # First example 8
+
+This is english content
+
+:::fa:::
+
+# فارسی
+
+این متن رو امتحان کردم
